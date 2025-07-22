@@ -1,2 +1,2 @@
-# Referenced at C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:26
+# Referenced at C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:26
 -keep class com.uzmap.pkg.uzapp.UZApplication { <init>(); }

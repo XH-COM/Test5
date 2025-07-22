@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\26858\\Desktop\\YongYou\\test4\\AndroidPluginDevSDK_androidStudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\26858\\Desktop\\YongYou\\Test5\\AndroidPluginDevSDK_androidStudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\26858\\Desktop\\YongYou\\Test5\\AndroidPluginDevSDK_androidStudio\\app\\src\\main\\res\\values\\mo_engine_values.xml",
+                    "from": {
+                        "startLines": "3,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "75,121",
+                        "endLines": "3,14",
+                        "endColumns": "41,12",
+                        "endOffsets": "112,710"
+                    },
+                    "to": {
+                        "startLines": "38,40",
+                        "startColumns": "4,4",
+                        "startOffsets": "2323,2436",
+                        "endLines": "38,49",
+                        "endColumns": "41,12",
+                        "endOffsets": "2360,3016"
+                    }
+                },
                 {
                     "source": "C:\\F\\Android\\GradleRepository\\caches\\transforms-2\\files-2.1\\afbfeef27732c17c47332bcb078ad275\\support-compat-26.0.0\\res\\values\\values.xml",
                     "from": {
@@ -37,25 +56,6 @@
                         "startOffsets": "187,276,405,2193,3339,3515,3637,3899,4094",
                         "endColumns": "88,70,72,59,65,121,60,65,66",
                         "endOffsets": "271,342,473,2248,3400,3632,3693,3960,4156"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\26858\\Desktop\\YongYou\\test4\\AndroidPluginDevSDK_androidStudio\\app\\src\\main\\res\\values\\mo_engine_values.xml",
-                    "from": {
-                        "startLines": "3,5",
-                        "startColumns": "4,4",
-                        "startOffsets": "75,121",
-                        "endLines": "3,14",
-                        "endColumns": "41,12",
-                        "endOffsets": "112,710"
-                    },
-                    "to": {
-                        "startLines": "38,40",
-                        "startColumns": "4,4",
-                        "startOffsets": "2323,2436",
-                        "endLines": "38,49",
-                        "endColumns": "41,12",
-                        "endOffsets": "2360,3016"
                     }
                 }
             ]

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\26858\\Desktop\\YongYou\\test4\\AndroidPluginDevSDK_androidStudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
+            "outputFile": "C:\\Users\\26858\\Desktop\\YongYou\\Test5\\AndroidPluginDevSDK_androidStudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
             "map": [
                 {
                     "source": "C:\\F\\Android\\GradleRepository\\caches\\transforms-2\\files-2.1\\afbfeef27732c17c47332bcb078ad275\\support-compat-26.0.0\\res\\values-sk\\values-sk.xml",
