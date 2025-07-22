@@ -3,7 +3,7 @@
     package="com.apicloud.sdk.moduledemo">
 
     <uses-sdk android:minSdkVersion="15"
-        android:targetSdkVersion="28"/>
+        android:targetSdkVersion="33"/>
 
     <uses-permission android:name="android.permission.VIBRATE" />
 

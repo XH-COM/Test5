@@ -7,8 +7,13 @@ import com.uzmap.pkg.uzcore.UZResourcesIDFinder;
 import android.content.Context;
 import android.os.Handler;
 import android.os.Message;
-import android.support.v4.view.PagerAdapter;
-import android.support.v4.view.ViewPager;
+//import android.support.v4.view.PagerAdapter;
+//import android.support.v4.view.ViewPager;
+import androidx.viewpager.widget.PagerAdapter;
+import androidx.viewpager.widget.ViewPager;
+import androidx.viewpager.widget.ViewPager.OnPageChangeListener; // 新增导入
+
+
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
@@ -138,8 +143,8 @@ public class ScrollPictureView extends ViewPager {
         }
     }
 	
-	class FramesAdapter extends PagerAdapter implements android.support.v4.view.ViewPager.OnPageChangeListener {
-		
+//	class FramesAdapter extends PagerAdapter implements android.support.v4.view.ViewPager.OnPageChangeListener {
+class FramesAdapter extends PagerAdapter implements OnPageChangeListener { // 修改为
 		JSONObject mCallbackInfo;
 		
 		public FramesAdapter() {

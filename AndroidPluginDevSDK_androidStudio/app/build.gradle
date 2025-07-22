@@ -55,9 +55,17 @@ repositories{
 }
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'com.android.support:support-v4:26.0.0'
-    implementation 'com.android.support:multidex:1.0.1'
+//    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    // 包含所有 JAR 文件，但排除 apiEngine v3.0.0.jar
+    implementation fileTree(dir: 'libs', include: ['*.jar'], exclude: ['apiEngine v3.0.0.jar'])
+
+//    // 明确添加 apiEngine v3.0.0.jar（不使用 jetified 版本）
+//    implementation files('libs/apiEngine v3.0.0.jar')
+
+//    implementation 'com.android.support:support-v4:26.0.0'
+//    implementation 'com.android.support:multidex:1.0.1'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'androidx.multidex:multidex:2.0.1'
     //5个模块
     implementation project(':moduleDemo')
     implementation project(':moduleScrollPicture')

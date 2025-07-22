@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\26858\\Desktop\\YongYou\\Test5\\AndroidPluginDevSDK_androidStudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\F\\Android\\GradleRepository\\caches\\transforms-2\\files-2.1\\cc69b2c486df79be26fe4148b92f2688\\support-media-compat-26.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\F\\Android\\GradleRepository\\caches\\transforms-2\\files-2.1\\05262f07e46b417e039eb5ae9f0de398\\media-1.0.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

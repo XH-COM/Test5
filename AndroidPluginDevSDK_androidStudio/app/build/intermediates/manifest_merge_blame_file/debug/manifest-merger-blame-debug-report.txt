@@ -51,97 +51,92 @@
 27-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:24:18-66
 28        android:allowBackup="false"
 28-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:25:9-36
-29        android:debuggable="true"
-30        android:hardwareAccelerated="true"
-30-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:29:9-43
-31        android:icon="@drawable/uz_icon"
-31-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:26:9-41
-32        android:label="@string/app_name"
-32-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:27:9-41
-33        android:largeHeap="true"
-33-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:28:9-33
-34        android:supportsRtl="true"
-34-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-35
-35        android:testOnly="true" >
-36        <meta-data
-36-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:32:9-70
-37            android:name="uz_version"
-37-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:32:20-45
-38            android:value="1.2.0" />
-38-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:32:46-67
-39
-40        <activity
-40-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:34:9-45:20
-41            android:name="com.uzmap.pkg.LauncherUI"
-41-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:35:13-52
-42            android:configChanges="orientation|locale|keyboardHidden|screenLayout|screenSize|smallestScreenSize|keyboard|fontScale"
-42-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:40:13-132
-43            android:label="@string/app_name"
-43-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:36:13-45
-44            android:launchMode="singleTop"
-44-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:37:13-43
-45            android:theme="@style/AppTheme"
-45-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:38:13-44
-46            android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustResize|adjustPan|adjustNothing" >
-46-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:39:13-109
-47            <intent-filter>
-47-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:41:11-44:33
-48                <action android:name="android.intent.action.MAIN" />
-48-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:42:18-70
-48-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:42:26-67
-49
-50                <category android:name="android.intent.category.LAUNCHER" />
-50-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:43:18-78
-50-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:43:28-75
-51            </intent-filter>
-52        </activity>
-53        <activity
-53-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:46:9-55:20
-54            android:name="com.uzmap.pkg.EntranceActivity"
-54-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:47:13-58
-55            android:configChanges="orientation|locale|keyboardHidden|keyboard|screenLayout|screenSize|smallestScreenSize|touchscreen|navigation"
-55-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:54:13-145
-56            android:exported="true"
-56-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:51:4-27
-57            android:label="@string/app_name"
-57-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:48:13-45
-58            android:launchMode="singleTask"
-58-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:50:13-44
-59            android:screenOrientation="portrait"
-59-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:52:13-49
-60            android:theme="@style/AppTheme"
-60-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:49:13-44
-61            android:windowSoftInputMode="adjustPan" >
-61-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:53:13-52
-62        </activity>
-63
-64        <provider
-65            android:name="com.uzmap.pkg.uzapp.DataProvider"
-65-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:56:13-60
-66            android:authorities="com.apicloud.pkg.sdk.upms"
-66-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:57:13-56
-67            android:exported="false"
-67-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:58:13-37
-68            android:grantUriPermissions="true" />
-68-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:59:13-47
-69
-70        <meta-data
-70-->[com.android.support:support-v4:26.0.0] C:\F\Android\GradleRepository\caches\transforms-2\files-2.1\3fc4047b6612ed80785bfe50005fdbd4\support-v4-26.0.0\AndroidManifest.xml:26:9-28:38
-71            android:name="android.support.VERSION"
-71-->[com.android.support:support-v4:26.0.0] C:\F\Android\GradleRepository\caches\transforms-2\files-2.1\3fc4047b6612ed80785bfe50005fdbd4\support-v4-26.0.0\AndroidManifest.xml:27:13-51
-72            android:value="26.0.0" />
-72-->[com.android.support:support-v4:26.0.0] C:\F\Android\GradleRepository\caches\transforms-2\files-2.1\3fc4047b6612ed80785bfe50005fdbd4\support-v4-26.0.0\AndroidManifest.xml:28:13-35
-73
-74        <activity
-74-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-22:84
-75            android:name="com.apicloud.moduleDemo.DemoActivity"
-75-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-64
-76            android:configChanges="orientation|locale"
-76-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-55
-77            android:screenOrientation="portrait"
-77-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-49
-78            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar" />
-78-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-81
-79    </application>
-80
-81</manifest>
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.0.0] C:\F\Android\GradleRepository\caches\transforms-2\files-2.1\918e083f5cec0acd3f5036e97293ed6b\core-1.0.0\AndroidManifest.xml:22:18-86
+30        android:debuggable="true"
+31        android:hardwareAccelerated="true"
+31-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:29:9-43
+32        android:icon="@drawable/uz_icon"
+32-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:26:9-41
+33        android:label="@string/app_name"
+33-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:27:9-41
+34        android:largeHeap="true"
+34-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:28:9-33
+35        android:supportsRtl="true"
+35-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-35
+36        android:testOnly="true" >
+37        <meta-data
+37-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:32:9-70
+38            android:name="uz_version"
+38-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:32:20-45
+39            android:value="1.2.0" />
+39-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:32:46-67
+40
+41        <activity
+41-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:34:9-45:20
+42            android:name="com.uzmap.pkg.LauncherUI"
+42-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:35:13-52
+43            android:configChanges="orientation|locale|keyboardHidden|screenLayout|screenSize|smallestScreenSize|keyboard|fontScale"
+43-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:40:13-132
+44            android:label="@string/app_name"
+44-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:36:13-45
+45            android:launchMode="singleTop"
+45-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:37:13-43
+46            android:theme="@style/AppTheme"
+46-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:38:13-44
+47            android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustResize|adjustPan|adjustNothing" >
+47-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:39:13-109
+48            <intent-filter>
+48-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:41:11-44:33
+49                <action android:name="android.intent.action.MAIN" />
+49-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:42:18-70
+49-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:42:26-67
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:43:18-78
+51-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:43:28-75
+52            </intent-filter>
+53        </activity>
+54        <activity
+54-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:46:9-55:20
+55            android:name="com.uzmap.pkg.EntranceActivity"
+55-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:47:13-58
+56            android:configChanges="orientation|locale|keyboardHidden|keyboard|screenLayout|screenSize|smallestScreenSize|touchscreen|navigation"
+56-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:54:13-145
+57            android:exported="true"
+57-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:51:4-27
+58            android:label="@string/app_name"
+58-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:48:13-45
+59            android:launchMode="singleTask"
+59-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:50:13-44
+60            android:screenOrientation="portrait"
+60-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:52:13-49
+61            android:theme="@style/AppTheme"
+61-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:49:13-44
+62            android:windowSoftInputMode="adjustPan" >
+62-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:53:13-52
+63        </activity>
+64
+65        <provider
+66            android:name="com.uzmap.pkg.uzapp.DataProvider"
+66-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:56:13-60
+67            android:authorities="com.apicloud.pkg.sdk.upms"
+67-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:57:13-56
+68            android:exported="false"
+68-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:58:13-37
+69            android:grantUriPermissions="true" />
+69-->C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:59:13-47
+70
+71        <activity
+71-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-22:84
+72            android:name="com.apicloud.moduleDemo.DemoActivity"
+72-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-64
+73            android:configChanges="orientation|locale"
+73-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-55
+74            android:screenOrientation="portrait"
+74-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-49
+75            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar" />
+75-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\Test5\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-81
+76    </application>
+77
+78</manifest>

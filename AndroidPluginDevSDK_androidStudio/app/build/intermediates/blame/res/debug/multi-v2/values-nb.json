@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\26858\\Desktop\\YongYou\\Test5\\AndroidPluginDevSDK_androidStudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
             "map": [
                 {
-                    "source": "C:\\F\\Android\\GradleRepository\\caches\\transforms-2\\files-2.1\\afbfeef27732c17c47332bcb078ad275\\support-compat-26.0.0\\res\\values-nb\\values-nb.xml",
+                    "source": "C:\\F\\Android\\GradleRepository\\caches\\transforms-2\\files-2.1\\918e083f5cec0acd3f5036e97293ed6b\\core-1.0.0\\res\\values-nb\\values-nb.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

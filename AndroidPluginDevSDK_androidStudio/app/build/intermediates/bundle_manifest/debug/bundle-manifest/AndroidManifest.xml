@@ -26,6 +26,7 @@
     <application
         android:name="com.uzmap.pkg.uzapp.UZApplication"
         android:allowBackup="false"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:hardwareAccelerated="true"
         android:icon="@drawable/uz_icon"
@@ -66,10 +67,6 @@
             android:authorities="com.apicloud.pkg.sdk.upms"
             android:exported="false"
             android:grantUriPermissions="true" />
-
-        <meta-data
-            android:name="android.support.VERSION"
-            android:value="26.0.0" />
 
         <activity
             android:name="com.apicloud.moduleDemo.DemoActivity"
