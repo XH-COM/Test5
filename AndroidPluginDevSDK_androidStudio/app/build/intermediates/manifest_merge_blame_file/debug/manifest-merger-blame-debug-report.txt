@@ -1,0 +1,147 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.apicloud.pkg.sdk"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:7:5-47
+8        android:minSdkVersion="15"
+8-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:7:5-47
+9        android:targetSdkVersion="30" />
+9-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:7:16-45
+10
+11    <supports-screens
+11-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:9:5-15:40
+12        android:anyDensity="true"
+12-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:10:9-34
+13        android:largeScreens="true"
+13-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:11:9-36
+14        android:normalScreens="true"
+14-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:12:9-37
+15        android:resizeable="true"
+15-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:13:9-34
+16        android:smallScreens="true"
+16-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:14:9-36
+17        android:xlargeScreens="true" />
+17-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:15:9-37
+18
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:17:5-67
+19-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:17:22-64
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:18:5-81
+20-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:18:22-78
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:19:5-79
+21-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:19:22-76
+22    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+22-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:20:5-76
+22-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:20:22-73
+23    <uses-permission android:name="android.permission.VIBRATE" />
+23-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:21:5-66
+23-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:21:22-63
+24    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+24-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:22:5-75
+24-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:22:22-72
+25
+26    <application
+26-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:24:5-60:19
+27        android:name="com.uzmap.pkg.uzapp.UZApplication"
+27-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:24:18-66
+28        android:allowBackup="false"
+28-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:25:9-36
+29        android:debuggable="true"
+30        android:hardwareAccelerated="true"
+30-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:29:9-43
+31        android:icon="@drawable/uz_icon"
+31-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:26:9-41
+32        android:label="@string/app_name"
+32-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:27:9-41
+33        android:largeHeap="true"
+33-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:28:9-33
+34        android:supportsRtl="true"
+34-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-35
+35        android:testOnly="true" >
+36        <meta-data
+36-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:32:9-70
+37            android:name="uz_version"
+37-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:32:20-45
+38            android:value="1.2.0" />
+38-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:32:46-67
+39
+40        <activity
+40-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:34:9-45:20
+41            android:name="com.uzmap.pkg.LauncherUI"
+41-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:35:13-52
+42            android:configChanges="orientation|locale|keyboardHidden|screenLayout|screenSize|smallestScreenSize|keyboard|fontScale"
+42-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:40:13-132
+43            android:label="@string/app_name"
+43-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:36:13-45
+44            android:launchMode="singleTop"
+44-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:37:13-43
+45            android:theme="@style/AppTheme"
+45-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:38:13-44
+46            android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustResize|adjustPan|adjustNothing" >
+46-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:39:13-109
+47            <intent-filter>
+47-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:41:11-44:33
+48                <action android:name="android.intent.action.MAIN" />
+48-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:42:18-70
+48-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:42:26-67
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:43:18-78
+50-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:43:28-75
+51            </intent-filter>
+52        </activity>
+53        <activity
+53-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:46:9-55:20
+54            android:name="com.uzmap.pkg.EntranceActivity"
+54-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:47:13-58
+55            android:configChanges="orientation|locale|keyboardHidden|keyboard|screenLayout|screenSize|smallestScreenSize|touchscreen|navigation"
+55-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:54:13-145
+56            android:exported="true"
+56-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:51:4-27
+57            android:label="@string/app_name"
+57-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:48:13-45
+58            android:launchMode="singleTask"
+58-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:50:13-44
+59            android:screenOrientation="portrait"
+59-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:52:13-49
+60            android:theme="@style/AppTheme"
+60-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:49:13-44
+61            android:windowSoftInputMode="adjustPan" >
+61-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:53:13-52
+62        </activity>
+63
+64        <provider
+65            android:name="com.uzmap.pkg.uzapp.DataProvider"
+65-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:56:13-60
+66            android:authorities="com.apicloud.pkg.sdk.upms"
+66-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:57:13-56
+67            android:exported="false"
+67-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:58:13-37
+68            android:grantUriPermissions="true" />
+68-->C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\app\src\main\AndroidManifest.xml:59:13-47
+69
+70        <meta-data
+70-->[com.android.support:support-v4:26.0.0] C:\F\Android\GradleRepository\caches\transforms-2\files-2.1\3fc4047b6612ed80785bfe50005fdbd4\support-v4-26.0.0\AndroidManifest.xml:26:9-28:38
+71            android:name="android.support.VERSION"
+71-->[com.android.support:support-v4:26.0.0] C:\F\Android\GradleRepository\caches\transforms-2\files-2.1\3fc4047b6612ed80785bfe50005fdbd4\support-v4-26.0.0\AndroidManifest.xml:27:13-51
+72            android:value="26.0.0" />
+72-->[com.android.support:support-v4:26.0.0] C:\F\Android\GradleRepository\caches\transforms-2\files-2.1\3fc4047b6612ed80785bfe50005fdbd4\support-v4-26.0.0\AndroidManifest.xml:28:13-35
+73
+74        <activity
+74-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-22:84
+75            android:name="com.apicloud.moduleDemo.DemoActivity"
+75-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-64
+76            android:configChanges="orientation|locale"
+76-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-55
+77            android:screenOrientation="portrait"
+77-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-49
+78            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar" />
+78-->[:moduleDemo] C:\Users\26858\Desktop\YongYou\test4\AndroidPluginDevSDK_androidStudio\moduleDemo\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-81
+79    </application>
+80
+81</manifest>
